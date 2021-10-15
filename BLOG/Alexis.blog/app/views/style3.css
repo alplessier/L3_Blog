@@ -1,0 +1,474 @@
+/* Debut reset CSS */
+html {
+   font-size: 62.5%;
+}
+body{
+   background-color: #fff;
+   color: #000;
+   font-family: "Century Gothic", helvetica, arial, sans-serif;
+   font-size: 1.4em; /* equiv 14px */
+   line-height: 1.5; 
+}
+
+
+a, abbr, acronym, address, applet, article, aside, audio,
+b, blockquote, big, body,
+center, canvas, caption, cite, code, command,
+datalist, dd, del, details, dfn, dl, div, dt, 
+em, embed,
+fieldset, figcaption, figure, font, footer, form, 
+h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, ins,
+kbd, 
+keygen,
+label, legend, li, 
+meter,
+nav,
+object, ol, output,
+p, pre, progress,
+q, 
+s, samp, section, small, span, source, strike, strong, sub, sup,
+table, tbody, tfoot, thead, th, tr, tdvideo, tt,
+u, ul, 
+var{
+   background: transparent;
+   font-size: 100%;
+   border: 0 none;
+   margin: 0;
+   padding: 0;
+   vertical-align: baseline; 
+}
+
+/* Fin reset CSS */
+
+/* Paramètre body */
+body{
+   background-color: #393e46;
+   perspective: 800px;
+   font-family: "Century Gothic", helvetica, arial, sans-serif;
+   color: #3f72af;
+}
+
+.topnav{
+   background-color: #eeeeee;
+   overflow: hidden;
+   margin: 0px;
+   border: 0px;
+}
+
+.topnav a{
+   float: left;
+   color: #112d4e;
+   text-align: center;
+   padding: 14px 15px;
+   text-decoration: none;
+   font-size: 17px;
+}
+ 
+/* COULEUR DIFFERENTE SI PAGE ACTIVE */
+.topnav a#active {
+   background-color: #00adb5;
+   color: white;
+}
+
+/* CHANGE LA COULEUR QUAND ON SURVOLE */
+.topnav a.com:hover{
+
+   background-color: #03D3DC;
+   color : white;
+}
+.topnav a.main:hover{
+
+   background-color: #112d4e;
+   color : white;
+}
+.topnav a.deco:hover{
+
+   background-color: #BB1E09;
+   color : white;
+}
+.topnav a.reg:hover{
+
+   background-color: #03D3DC;
+   color : white;
+}
+.topnav a.con:hover{
+
+   background-color: #03E3EC;
+   color : white;
+}
+
+p {
+   color: #404040;
+   padding: 10px;
+   margin-top: 0;
+   text-align: center;
+}
+
+h1#newArticle{
+   text-align: center;
+   color: #CE1212;
+   padding: 10px 0px;
+   font-size: 25px;
+}
+
+h1#allArticles{
+   text-align: center;
+   color: #CE1212;
+   padding: 20px 0;
+   font-size: 25px;
+}
+
+h1#register{
+   text-align: center;
+   color: #CE1212;
+   padding: 20px 0;
+   font-size: 25px;
+}
+
+h1#conn{
+   text-align: center;
+   color: #CE1212;
+   padding: 20px 0;
+   font-size: 25px;
+}
+
+h1#article{
+   padding-left: 40px;
+}
+
+span#nom{
+   text-decoration: underline;
+}
+
+span#pseudo{
+   color : #404040;
+}
+
+span#password{
+   color : #404040;
+}
+
+span#password2{
+   color : #404040;
+}
+
+div#article{
+   padding-left: 20px;
+   border-bottom: 2px dotted #393e46;
+   overflow: hidden;
+   height: 4.25rem;
+}
+
+div#comm{
+   display: block;
+   background-color: #e2e2e2;
+   width: 80%;
+   margin: auto;
+   box-shadow: 1px 1px 12px #5515;
+   padding-bottom: 40px;
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-bottom: 40px;
+}
+
+div#comm1{
+   display: block;
+   background-color: white;
+   width: 80%;
+   margin-left: 71.814px;
+   margin-right: auto;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-bottom: 40px;
+   height: 5%;
+}
+
+div#outer{
+   background-color: #e2e2e2;
+   overflow: hidden;
+   height: auto;
+   text-align: center;
+   background-color: #e2e2e2;
+}
+
+div#outerC{
+   background-color: white;
+   overflow: hidden;
+   height: auto;
+   text-align: center;
+   background-color: white;
+}
+
+div#outer form{
+   display: inline;
+}
+
+div#outerC form{
+   display: inline;
+}
+
+div#erreur{
+   color: white;
+   background-color: #CE1212;
+   width:40%;
+   margin-left: 360px;
+   text-align: center;
+}
+
+
+span#titre{
+   font-weight: bolder;
+}
+span#article1{
+   padding-left: 40px;
+   color: #404040;  
+}
+
+
+.section{
+   display: block;
+   background-color: #e2e2e2;
+   width: 80%;
+   margin: auto;
+   box-shadow: 1px 1px 12px #5515;
+   padding-bottom: 40px;
+   margin-bottom: 40px;
+}
+.sectionArticle{
+
+   background-color: #e2e2e2;
+   width: 80%;
+   margin: auto;
+   box-shadow: 1px 1px 12px #5515;
+
+   margin-top: 10px;
+   padding: 10px 10px 40px 10px
+
+}
+
+/* INPUTS */
+input[type=text]{
+   width: 80%;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+   padding: 10px;
+   font-family: "Century Gothic";
+   font-size: larger;
+}
+
+input#title{
+   font-family: "Century Gothic";
+   font-weight: bold;
+}
+
+input#pseudo{
+   width: 40%;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+   font-family: "Century Gothic";
+   font-size: larger;
+}
+
+input#password{
+   width: 40%;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+   padding: 10px;
+   font-family: "Century Gothic";
+   font-size: larger;
+}
+
+input#password2{
+   width: 40%;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+   padding: 10px;
+   font-family: "Century Gothic";
+   font-size: larger;
+}
+
+input#bouttonModif{
+   padding: 10;
+}
+input::placeholder{
+   font-family: "Century Gothic";
+}
+
+textarea[type=content]{
+   width: 79%;
+   display: inline-block;
+   border: 1px solid #ccc;
+   font-size: larger;
+}
+
+
+textarea#content{
+   font-family: "Century Gothic";
+}
+
+textarea::placeholder{
+   font-family: "Century Gothic";
+}
+
+textarea[type=content].modifArticle{
+   color: red;
+}
+
+label
+{
+	display:block;
+	width: 100px;
+	float: left;
+}
+
+label#pseudo{
+   padding-left: 260px;
+   font-size: small;
+}
+
+label#password{
+   padding-left: 260px;
+   font-size: small;
+}
+
+label#password2{
+   padding-left: 260px;
+   font-size: small;
+}
+
+/* BOUTTON */
+.boutton {
+   background-color: #393e46;
+   color: white;
+   padding: 14px 20px;
+   border: none;
+   cursor: pointer;
+   width: 80%;
+}
+
+.boutton:hover{
+   background-color: #3A843D;
+   color: white;
+}
+
+/* BOUTTON SUPPRIMER COMPTE PERSO*/
+.boutton#supp{
+   width: 30%;
+}
+
+.boutton#supp:hover{
+   background-color: #BB1E09;
+   color: white;
+}
+
+/* BOUTTON SUPPRIMER COMPTE ADMIN */
+.boutton#supp1{
+   width: 30%;
+   margin-left: 175px;
+}
+
+.boutton#supp1:hover{
+   background-color: #BB1E09;
+   color: white;
+}
+
+
+/* BOUTTON CHANGER ROLE */
+.boutton#changer{
+   width: 30%;
+   margin-left: 40px;
+}
+
+.boutton#changer:hover{
+   background-color: #192080;
+   color: white;
+}
+
+/* BOUTTON REGISTER */
+.boutton#register{
+   width: 30%;
+   margin-left: 100px;
+}
+
+/*BOUTTON ARTICLE/COMMENTAIRE */
+.boutton#bouttonSupp{
+   width: 30%;
+   display: inline-block;
+}
+
+
+.boutton#bouttonModif:hover{
+   background-color: #192080;
+   color: white;
+}
+
+.boutton#bouttonSupp:hover{
+   background-color: #BB1E09;
+   color: white;
+}
+
+
+.boutton#bouttonModif{
+   width: 30%;
+   display: inline-block;
+}
+
+
+/* FOOTER */
+footer{
+   background-color: #222831;
+   color: #eeeeee;
+   padding-top: 30px;
+}
+
+#table {
+   font-family: "Century Gothic";
+   border-collapse: collapse;
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+#table td, #table th {
+   border: 1px solid #ddd;
+   padding: 8px;
+}
+
+
+#table tr:nth-child(even){background-color: #f2f2f2;}
+#table tr:nth-child(odd){background-color: #ddd;}
+
+#table tr:hover {background-color: #00adb5;}
+
+/* TITRE TABLE */
+#table th {
+   text-align: left;
+   background-color: #393e46;
+   color: white;
+}
+
+/* COULEURS DANS TABLEe */
+#table td a:link{
+   text-decoration: none;
+   font-weight: bold;
+}
+
+#table td a:hover{
+   color : #222831;
+}
+
+
+#table td a:visited{
+   color : #3f72af;
+}
+
+#table td a:visited:hover{
+   color : #222831;
+}

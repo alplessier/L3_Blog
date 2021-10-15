@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 12.10.0.0 Model
+ * Author: Alexis
+ * Creation Date: 25 nov. 2020 at 15:57:56
+ *********************************************/
+dvar int r;
+int a = 3;
+
+ execute{
+   writeln("OUI EHE C MOA");
+ }

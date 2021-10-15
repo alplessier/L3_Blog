@@ -1,0 +1,16 @@
+/*********************************************
+ * OPL 12.10.0.0 Model
+ * Author: Alexis
+ * Creation Date: 25 nov. 2020 at 15:57:56
+ *********************************************/
+ 
+ // EXERCICE 1
+
+int a = 3;
+int b = 4;
+
+ execute{
+   writeln(a+b);
+ }
+ 
+ //EXERCICE 2

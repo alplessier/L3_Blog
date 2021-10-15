@@ -1,0 +1,244 @@
+!SESSION 2020-11-25 16:04:40.474 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:04:40.488
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:04:54.035 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:04:54.045
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:05:04.909 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:05:04.917
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:05:14.972 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:05:14.981
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2020-11-25 16:05:15.245
+!MESSAGE Aucune solution disponible, traitement impossible.
+!STACK 0
+ilog.concert.IloException: Aucune solution disponible, traitement impossible.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_postProcess(Native Method)
+	at ilog.opl.IloOplModel.postProcess(IloOplModel.java:676)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.postProcess(IloAbstractRunShell.java:1959)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.sendSolution(IloAbstractRunShell.java:1817)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.processSolution(IloAbstractRunShell.java:1871)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:165)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2020-11-25 16:05:22.214 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:05:22.223
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:06:50.575 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:06:50.585
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:07:03.107 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:07:03.116
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:07:24.718 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:07:24.727
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:07:37.479 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:07:37.488
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:14:35.636 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:14:35.645
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:14:52.507 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:14:52.515
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:15:08.312 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:15:08.327
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:16:23.008 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:16:23.017
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:16:49.139 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:16:49.147
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:17:32.545 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:17:32.553
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+!SESSION 2020-11-25 16:17:48.780 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:17:48.788
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2020-11-25 16:17:48.857
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:146)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2020-11-25 16:17:48.859
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible de charger le modèle.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:140)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:374)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1596)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2020-11-25 16:18:12.098 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.41 - pwa6480sr5fp41-20190919_01(SR5 FP41)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190911_427071 (JIT enabled, AOT enabled)
+OpenJ9   - d581d49
+OMR      - ca4db84
+IBM      - 5cfdf9c
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -clean -nl fr_FR -configuration C:\Users\Alexis\Desktop\L3 COURS\TDJ\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2020-11-25 16:18:12.112
+!MESSAGE Run Configuration 1 in C:/Users/Alexis/opl/test

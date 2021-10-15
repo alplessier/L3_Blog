@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ /index.php?path=$1 [NC,L,QSA]
+RewriteRule ^article-id([0-9]+).php article.php?id=$2
+RewriteRule ^compte-id([0-9]+).php compte.php?id=$2
+
+ErrorDocument 404 /404.php
